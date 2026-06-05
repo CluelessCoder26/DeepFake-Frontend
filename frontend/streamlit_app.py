@@ -5,7 +5,7 @@ import requests
 # CONFIG
 # =====================================
 
-API_URL = "https://your-backend-url.com"
+API_URL = "https://cluelesscoder26-deepfake-backend.hf.space"
 
 st.set_page_config(
     page_title="DeepFake Detection System",
